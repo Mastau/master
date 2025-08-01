@@ -1,11 +1,10 @@
 
 # Master Cybersécurité
+
 > [!NOTE]\
 > À la demande de certains qui souhaitent suivre ~~ma dépression ainsi que ma descente aux enfers~~ mes cours, vous trouverez ici les PDF et mes prises de notes relatives aux différentes UE de mon master.
 
 ## Programme
-
----
 
 ### Semestre 1 – 30 crédits
 
